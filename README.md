@@ -46,7 +46,7 @@
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
-## [Javascript ออนไลน์ ](https://dotnetfiddle.net/)
+## [Javascript ออนไลน์ ](https://www.webtoolkitonline.com/javascript-tester.html)
 
 
 ## ภาษา PHP
@@ -58,7 +58,7 @@
 
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
-## [PHP ออนไลน์](https://dotnetfiddle.net/)
+## [PHP ออนไลน์](http://www.writephponline.com/)
 
 
 
