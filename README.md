@@ -3,7 +3,7 @@
 
 ## ภาษา C
 
-[คลิกเพื่อดูโค๊ดภาษา C](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/C/C)
+[คลิกเพื่อดูโค้ดภาษา C](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/C/C)
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/C/c1-10.png)
 
@@ -11,7 +11,7 @@
 
 ## ภาษา C#
 
-[คลิกเพื่อดูโค๊ดภาษา C#](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/C%23/C%23)
+[คลิกเพื่อดูโค้ดภาษา C#](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/C%23/C%23)
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/C%23/c%231-10.png)
 
@@ -19,7 +19,7 @@
 
 ## ภาษา JAVA
 
-[คลิกเพื่อดูโค๊ดภาษา JAVA](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/Java/JAVA) 
+[คลิกเพื่อดูโค้ดภาษา JAVA](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/Java/JAVA) 
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/Java/Java1-10.png)
 
@@ -27,7 +27,7 @@
 
 ## ภาษา Javascript
 
-[คลิกเพื่อดูโค๊ดภาษา Javascript](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/JS/JS) 
+[คลิกเพื่อดูโค้ดภาษา Javascript](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/JS/JS) 
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/JS/JS1-10.png)
 
@@ -35,7 +35,7 @@
 
 ## ภาษา PHP
 
-[คลิกเพื่อดูโค๊ดภาษา PHP](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/PHP/PHP) 
+[คลิกเพื่อดูโค้ดภาษา PHP](https://github.com/suwatjanee005/Sourec_Code_Number/blob/master/PHP/PHP) 
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/PHP/PHP.png)
 
