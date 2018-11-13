@@ -1,7 +1,9 @@
-# สวัสดีค่ะ วันนี้ก็จะมาแนะนำเกี่ยวกับการเขียนโปรแกรม 1-10 ด้วยโปรแกรมต่างๆ
+# สวัสดีค่ะ 
+
+## วันนี้ก็จะมาแนะนำเกี่ยวกับการเขียนโปรแกรม 1-10 ด้วยภาษาต่างๆ
 
 
-## ภาษา C
+### ภาษา C
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/C/c1-10.png)
 
@@ -14,7 +16,7 @@
 
 
 
-## ภาษา C#
+### ภาษา C#
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/C%23/c%231-10.png)
 
@@ -25,7 +27,9 @@
 
 ## [C# ออนไลน์](https://dotnetfiddle.net/)
 
-## ภาษา JAVA
+
+
+### ภาษา JAVA
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/Java/Java1-10.png)
 
@@ -37,7 +41,8 @@
 ## [JAVA ออนไลน์](https://dotnetfiddle.net/)
 
 
-## ภาษา Javascript
+
+### ภาษา Javascript
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/JS/JS1-10.png)
 
@@ -49,7 +54,8 @@
 ## [Javascript ออนไลน์ ](https://www.webtoolkitonline.com/javascript-tester.html)
 
 
-## ภาษา PHP
+
+### ภาษา PHP
 
 ![Image](https://raw.githubusercontent.com/suwatjanee005/Sourec_Code_Number/master/PHP/PHP.png)
 
@@ -59,6 +65,3 @@
 -เป็นการรันผลลัพธ์ผ่านเว็บออนไลน์ หากเพื่อนๆสนใจสามารถลองเข้าไปดูได้เลยค้า
 
 ## [PHP ออนไลน์](http://www.writephponline.com/)
-
-
-
